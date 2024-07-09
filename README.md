@@ -1,1 +1,2 @@
-# aluraplay
+# Aluraplay
+Criando requisições com JavaScript
